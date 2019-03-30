@@ -68,6 +68,6 @@ chmod a+x download_model.sh
   ![](https://github.com/gulshan-mittal/video-inference/blob/master/results/YOLOv3-min.gif)
   
 * Mask-RCNN
- 
- ![](https://github.com/gulshan-mittal/video-inference/blob/master/results/Mask_RCNN-min.gif?raw=true)
+  
+  ![](https://github.com/gulshan-mittal/video-inference/blob/master/results/Mask_RCNN-min.gif?raw=true)
 
