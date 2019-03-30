@@ -63,4 +63,6 @@ chmod a+x download_model.sh
     ```
 
 ### Results (Sample Inferences)
+* Yolov3
+![](YOLOv3-min.gif)
 
